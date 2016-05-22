@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="AspNetExampleProject.WWW/AspNetExampleProject.WWW.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="env" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetExampleProject.Data.Tests.Integration/MyClass.cs">
+    <Files>
+      <File FileName="AspNetExampleProject.Data/MyClass.cs" Line="1" Column="1" />
+      <File FileName="AspNetExampleProject.Entities/MyClass.cs" Line="1" Column="1" />
+      <File FileName="AspNetExampleProject.Data.Tests.Unit/MyClass.cs" Line="1" Column="1" />
+      <File FileName="AspNetExampleProject.Data.Tests.Integration/MyClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
